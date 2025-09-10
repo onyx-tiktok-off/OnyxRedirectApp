@@ -1,0 +1,7 @@
+// build.gradle (Project)
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
